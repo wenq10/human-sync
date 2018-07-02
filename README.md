@@ -34,7 +34,7 @@ repeat the analysis in simu_est-1 to see the whether the model give correct esti
 of variance explained by sync.
 
 
-II. the analysis with real-world data (for real sync phenomena analyses)
+II. the analysis with real-world data (for real sync phenomenon analyses)
 
 estimation*.py 
 is for estimating the sync model with full data
