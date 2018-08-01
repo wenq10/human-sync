@@ -1,7 +1,7 @@
 # human-sync
 code to analyze the behavioral sync data for the following work
 
-Qi Wen, Qixiang Fan, Peter Gloor, Maoshan Qiang, Dongcheng Zhang, Hanchen Jiang (2018) Measuring behavioral synchronization in human organizations: The case of overtime work, MIT Center for Collective working paper.
+Qi Wen, Qixiang Fan, Peter Gloor, Maoshan Qiang, Dongcheng Zhang, Hanchen Jiang (2018) Measuring behavioral synchronization in human organizations: The case of overtime work, working paper @ MIT Center for Collective Intelligence & Tsinghua Institute of Project Management
 
 --------------------------------------------------------------------------------------------
 
